@@ -1,0 +1,328 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+:root {
+  --primary_font: "Open Sans", sans-serif;
+  --secondary_font: "Nunito", sans-serif;
+  --main_color: #29313d;
+  --minor_color: #545a64;
+  --third_color: #8454f5;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-item a {
+  color: var(--main_color);
+  font-family: var(--primary_font);
+}
+.BODY {
+  background: url(../images/banner\ Gradient\ BG.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nav-btn button {
+  font-family: var(--primary_font);
+  padding: 10px 20px;
+  color: rgb(59, 55, 55);
+  border-color: #8454f5;
+  border-radius: 30px;
+}
+.nav-btn button:hover {
+  background-color: var(--third_color);
+}
+#banner {
+  padding-top: 0;
+  padding-bottom: 80px;
+}
+.banner_content h1 {
+  padding-top: 150px;
+  font-family: var(--primary_font);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 70px;
+}
+
+.banner_content p {
+  font-family: var(--secondary_font);
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: var(--main_color);
+}
+.banner_line img {
+  height: 55px;
+  margin-right: 6px;
+}
+.bannar-button button {
+  border-color: #8454f5;
+  border-radius: 20px;
+  padding: 13px 24px;
+}
+.bannar-button {
+  padding-left: 176px;
+}
+.bannar-button :hover {
+  background-color: var(--third_color);
+}
+.banner_left {
+  width: 568px;
+  background-color: #dde5f1;
+  padding: 18px 10px;
+  border-radius: 25px;
+}
+.banner_cards {
+  margin-left: 136px;
+  margin-top: -257px;
+}
+.group-logos img {
+  width: 495%;
+  padding-left: 185px;
+}
+#grp_logos {
+  padding-top: 0;
+  padding-bottom: 45px;
+}
+#best_solution {
+  padding-top: 35px;
+  padding-bottom: 100px;
+}
+.best_solution_content h2 {
+  font-family: var(--primary_font);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 70px;
+  color: var(--main_color);
+  padding-bottom: 70px;
+}
+.best_solution_paragraph h3 {
+  font-family: var(--secondary_font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  padding-top: 20px;
+  padding-left: 45px;
+}
+.solution_box_1 {
+  width: 305px;
+  background-color: #8454f566;
+  padding-left: 45px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-radius: 30px;
+}
+.solution_box_1 h5 {
+  padding-left: 40px;
+}
+.solution_box_1:hover {
+  background-color: var(--third_color);
+}
+.solution_box_1 .alarm-img img {
+  width: 29px;
+  border: none;
+}
+.solution_box_1 .msg-img img {
+  width: 29px;
+  border: none;
+}
+.solution_box_1 .src-img img {
+  width: 29px;
+  border: none;
+}
+.solution_box_1 .p-img img {
+  width: 29px;
+  border: none;
+}
+.solution_box_1 button {
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+.solution_box_1 button:hover {
+  background-color: rgba(97, 85, 121, 0.705);
+}
+.grp_img img {
+  padding-left: 182px;
+  padding-right: 79px;
+}
+#cards {
+  padding-top: 0;
+  padding-bottom: 100px;
+}
+.grp_cards_content h4 {
+  font-family: var(--primary_font);
+  font-size: 43px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #29313d;
+}
+.grp_cards_content p {
+  font-family: var(--secondary_font);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  color: #29313d;
+}
+.grp_cards_content button {
+  border-color: #8454f5;
+  border-radius: 20px;
+  padding: 13px 24px;
+}
+.grp_cards_content button:hover {
+  background-color: var(--third_color);
+}
+.g_buttons button {
+  border-color: #8454f5;
+  border-radius: 20px;
+  padding: 13px 24px;
+}
+.g_buttons button:hover {
+  background-color: var(--third_color);
+}
+#grp_button {
+  padding-top: 0;
+  padding-bottom: 100px;
+}
+.grp_box {
+  width: 435%;
+  background-color: #8454f566;
+  padding-left: 80px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-radius: 8px;
+}
+.btns-picture img {
+  padding-left: 150px;
+  padding-top: 190px;
+  padding-right: 41px;
+}
+.btn_content h6 {
+  font-family: var(--primary_font);
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 57px;
+  color: #29313d;
+  padding-top: 235px;
+  padding-left: 45px;
+}
+.btn_content p {
+  font-family: var(--secondary_font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  padding-left: 45px;
+  color: #29313d;
+}
+.btn_button button {
+  border-color: #8454f5;
+  border-radius: 20px;
+  padding: 13px 24px;
+}
+.btn_button button:hover {
+  background-color: var(--third_color);
+}
+.btn_button {
+  padding-left: 40px;
+}
+#plan {
+  padding-top: 0;
+  padding-bottom: 100px;
+}
+.right_plan_content h4 {
+  font-family: var(--primary_font);
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 65px;
+  text-align: center;
+}
+.pln img {
+  padding-left: 172px;
+  padding-top: 7px;
+  width: 351px;
+}
+.price_imgs img {
+  padding-top: 80px;
+
+  width: 935px;
+  padding-left: 208px;
+}
+#jonathon {
+  padding-top: 0;
+  padding-bottom: 100px;
+  padding-left: 60px;
+}
+.jn_content h6 {
+  font-family: var(--primary_font);
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 55px;
+  text-align: left;
+}
+.jn_content p {
+  font-family: var(--secondary_font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  padding-left: 33px;
+  padding-top: 29px;
+}
+.j-img img {
+  width: 213px;
+  padding-top: 28px;
+}
+.para_part h6 {
+  font-family: var(--primary_font);
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 20px;
+  padding-left: 36px;
+}
+.social_logo_img img {
+  width: 110px;
+  padding-left: 40px;
+  padding-top: 8px;
+}
+.users_img img {
+  width: 88%;
+  padding-top: 129px;
+  padding-left: 181px;
+}
+#footer {
+  padding-bottom: 34px;
+  padding-left: 20px;
+  padding-top: 64px;
+  background-color: #8454f566;
+}
+.footer_two h4 {
+  font-family: var(--primary_font);
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 34px;
+  padding-left: 20px;
+}
+.footer_two ul,
+li a {
+  font-family: var(--secondary_font);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 28px;
+  padding-left: 12px;
+}
+.policy_two {
+  width: 500px;
+  margin-left: 591px;
+  margin-top: 60px;
+}
+.policy {
+  margin-top: 60px;
+  margin-left: -48px;
+  width: 300px;
+}

@@ -1,0 +1,950 @@
+@media (min-width: 1400px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 48px;
+    line-height: 70px;
+  }
+  .nav-btn {
+    padding-right: 64px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 264px;
+    padding-top: 8px;
+  }
+  .banner_left {
+    width: 670px;
+    padding: 18px 10px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 9px;
+    width: 255px;
+  }
+  .group-logos img {
+    width: 131%;
+    margin-left: -198px;
+  }
+  .solution_box_1 {
+    padding-left: 17px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 64px;
+    padding-bottom: 45px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    width: 406%;
+    padding-left: 126px;
+  }
+  .btns-picture img {
+    padding-left: 86px;
+    padding-top: 51px;
+    padding-right: 79px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 45px;
+    line-height: 69px;
+    margin-top: 0;
+  }
+  .pln img {
+    padding-left: 114px;
+    padding-top: 7px;
+    width: 281px;
+  }
+  .footer_two h4 {
+    font-family: var(--primary_font);
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0;
+  }
+  .price_imgs img {
+    padding-top: 80px;
+    width: 846px;
+    padding-left: 51px;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    /* width: 127px; */
+    margin-left: 95px;
+    margin-top: 34px;
+  }
+  .jn_content p {
+    font-size: 16px;
+    line-height: 21px;
+    padding-left: 36px;
+    padding-top: 69px;
+  }
+  .jn_content h6 {
+    line-height: 49px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    /* width: 97%; */
+    padding-top: 65px;
+    padding-left: 162px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 33px;
+    line-height: 43px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .banner_left {
+    width: 282px;
+    margin-left: 8px;
+    height: 169px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 22px;
+    width: 149px;
+  }
+  .group-logos img {
+    width: 131%;
+    margin-left: -198px;
+  }
+  .solution_box_1 {
+    padding-left: 17px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 0;
+    padding-bottom: 45px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    /* width: 287px; */
+    padding-left: 56px;
+  }
+  .btns-picture img {
+    padding-left: 86px;
+    padding-top: 51px;
+    padding-right: 79px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 45px;
+    line-height: 69px;
+    margin-top: 0;
+  }
+  .pln img {
+    padding-left: 114px;
+    padding-top: 7px;
+    width: 281px;
+  }
+  .footer_two h4 {
+    font-family: var(--primary_font);
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0;
+  }
+  .price_imgs img {
+    padding-top: 80px;
+    width: 846px;
+    padding-left: 51px;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    width: 127px;
+  }
+  .jn_content p {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 19px;
+  }
+  .jn_content h6 {
+    line-height: 49px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    width: 97%;
+    padding-top: 65px;
+    padding-left: 233px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.99px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 33px;
+    line-height: 43px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .banner_left {
+    width: 282px;
+    margin-left: 8px;
+    height: 169px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 22px;
+    width: 149px;
+  }
+  .group-logos img {
+    width: 131%;
+    margin-left: -198px;
+  }
+  .solution_box_1 {
+    padding-left: 17px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 0;
+    padding-bottom: 45px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    /* width: 287px; */
+    padding-left: 56px;
+  }
+  .btns-picture img {
+    padding-left: 86px;
+    padding-top: 51px;
+    padding-right: 79px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 45px;
+    line-height: 69px;
+    margin-top: 0;
+  }
+  .pln img {
+    padding-left: 114px;
+    padding-top: 7px;
+    width: 281px;
+  }
+  .footer_two h4 {
+    font-family: var(--primary_font);
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0;
+  }
+  .price_imgs img {
+    padding-top: 80px;
+    width: 846px;
+    padding-left: 51px;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    width: 127px;
+  }
+  .jn_content p {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 19px;
+  }
+  .jn_content h6 {
+    line-height: 49px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    width: 97%;
+    padding-top: 65px;
+    padding-left: 233px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .navbar {
+    background-color: #8454f566;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 33px;
+    line-height: 43px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .banner_left {
+    width: 282px;
+    margin-left: 8px;
+    height: 169px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 22px;
+    width: 149px;
+  }
+  .group-logos img {
+    width: 131%;
+    margin-left: -198px;
+  }
+  .solution_box_1 {
+    width: 437px;
+    padding-left: 17px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 0;
+    padding-bottom: 45px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    width: 287px;
+  }
+  .btns-picture img {
+    padding-left: 86px;
+    padding-top: 51px;
+    padding-right: 79px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 40px;
+    line-height: 67px;
+    margin-top: 0;
+  }
+  .pln img {
+    padding-left: 281px;
+    padding-top: 7px;
+    width: 410px;
+  }
+  .footer_two h4 {
+    font-family: var(--primary_font);
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0;
+  }
+  .price_imgs img {
+    padding-top: 80px;
+    width: 683px;
+    padding-left: 2px;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    width: 127px;
+  }
+  .jn_content p {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 19px;
+  }
+  .jn_content h6 {
+    line-height: 36px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    width: 97%;
+    padding-top: 65px;
+    padding-left: 233px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .navbar {
+    background-color: #8454f566;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 33px;
+    line-height: 43px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .banner_left {
+    width: 282px;
+    margin-left: 8px;
+    height: 169px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 22px;
+    width: 149px;
+  }
+  .group-logos img {
+    width: 164%;
+    margin-left: -198px;
+  }
+  .solution_box_1 {
+    width: 437px;
+    padding-left: 17px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 0;
+    padding-bottom: 45px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    width: 287px;
+  }
+  .btns-picture img {
+    padding-left: 86px;
+    padding-top: 51px;
+    padding-right: 79px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 30px;
+    line-height: 42px;
+    margin-top: -52px;
+  }
+  .pln img {
+    padding-left: 204px;
+    padding-top: 7px;
+    width: 323px;
+  }
+  .footer_two h4 {
+    font-family: var(--primary_font);
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 0;
+  }
+  .price_imgs img {
+    padding-top: 80px;
+    width: 504px;
+    padding-left: 0;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    width: 127px;
+  }
+  .jn_content p {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 19px;
+  }
+  .jn_content h6 {
+    line-height: 36px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    width: 96%;
+    padding-top: 104px;
+    padding-left: 50px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .navbar {
+    background-color: #8454f566;
+  }
+}
+@media (max-width: 575px) {
+  .banner_content h1 {
+    padding-top: 56px;
+    font-size: 33px;
+    line-height: 43px;
+  }
+  .banner_content p {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .banner_cards {
+    margin-left: 66px;
+    margin-top: 19px;
+  }
+  .bannar-button {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+  .banner_left {
+    width: 282px;
+    margin-left: 8px;
+    height: 169px;
+  }
+  .bannar-button button {
+    border-radius: 12px;
+    padding: 8px 26px;
+    font-size: 13px;
+    width: 102px;
+  }
+  .banner_left p {
+    font-size: 15px;
+    padding-left: 22px;
+    width: 149px;
+  }
+  .group-logos img {
+    width: 171%;
+    margin-left: -198px;
+  }
+  .best_solution_content h2 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 11px;
+  }
+  .best_solution_paragraph h3 {
+    padding-top: 0;
+    padding-left: 6px;
+    padding-bottom: 35px;
+  }
+  #best_solution {
+    padding-top: 0;
+    padding-bottom: 60px;
+  }
+  #grp_logos {
+    padding-top: 0;
+    padding-bottom: 33px;
+  }
+  #banner {
+    padding-top: 0;
+    padding-bottom: 45px;
+  }
+  .grp_img img {
+    padding-left: 45px;
+    padding-bottom: 70px;
+  }
+  .grp_cards_content h4 {
+    font-size: 35px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .grp_cards_content p {
+    font-size: 17px;
+  }
+
+  .g_buttons button {
+    font-size: 14px;
+  }
+  .grp_box {
+    width: 287px;
+  }
+  .btns-picture img {
+    padding-left: 23px;
+    padding-top: 51px;
+    padding-right: 23px;
+  }
+  .btn_content h6 {
+    font-size: 27px;
+    line-height: 40px;
+    padding-top: 70px;
+    padding-left: 25px;
+  }
+  .btn_button button {
+    padding: 8px 24px;
+    font-size: 14px;
+  }
+  .btn_content p {
+    padding-left: 27px;
+  }
+  .right_plan_content h4 {
+    font-size: 17px;
+    line-height: 33px;
+    margin-top: -52px;
+  }
+  .pln img {
+    padding-left: 89px;
+    padding-top: 0;
+    width: 207px;
+  }
+  .price_imgs img {
+    padding-top: 50px;
+    width: 307px;
+    padding-left: 0;
+  }
+  .jn_content h6 {
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #jonathon {
+    padding-left: 0;
+  }
+  .j-img img {
+    width: 127px;
+  }
+  .jn_content p {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 19px;
+  }
+  .jn_content h6 {
+    line-height: 36px;
+  }
+  .social_logo_img img {
+    padding-left: 56px;
+    padding-top: 0;
+  }
+  .users_img img {
+    width: 96%;
+    padding-top: 104px;
+    padding-left: 50px;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+  }
+  .nav-item {
+    justify-content: center;
+  }
+  .navbar {
+    background-color: #8454f566;
+  }
+}
